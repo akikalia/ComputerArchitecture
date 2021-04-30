@@ -1,5 +1,5 @@
 # architecture-assignments
-computer architecture MIPS assembly assignments.
+Computer Architecture MIPS assembly assignments.
 
 ass1: https://www.informatics.ge/problem/443 (number of possible rectangles given an area)
 
